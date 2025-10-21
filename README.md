@@ -6,13 +6,13 @@ Prereqs: Docker & Docker Compose.
 cd backend/docker
 docker compose up --build -d
 
-# seed local mock data (Task 1)
+# seed local mock data
 docker compose run --rm php-fpm composer seed
 
-# fetch first 200 exercises (Task 2)
+# fetch first 200 exercises
 docker compose run --rm php-fpm composer exercises
 
-# create ~1,000 exercise instances (Task 2)
+# create ~1,000 exercise instances
 docker compose run --rm php-fpm composer instances
 
 Now open:
