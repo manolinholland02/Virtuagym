@@ -1,0 +1,17 @@
+[
+    {
+        "club_id": "ec7ab73a-05b9-4c4a-98c6-655cac6031ee",
+        "club_name": "Canal Fitness",
+        "city": "Amsterdam"
+    },
+    {
+        "club_id": "19d858ea-bfc8-4ae6-b6ce-96b143e39e7b",
+        "club_name": "Harbor Strength",
+        "city": "Rotterdam"
+    },
+    {
+        "club_id": "0c7ad85a-f8fa-47e3-8b53-c12dfa9639ac",
+        "club_name": "Utrecht Lift Lab",
+        "city": "Utrecht"
+    }
+]
